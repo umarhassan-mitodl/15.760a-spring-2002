@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ]
+  ],
+  "legacy_uid": "df568f0e-dd27-ffe5-ef81-44d30052afdc",
+  "instructors": {
+    "content": [
+      "284bc262-a1df-8a5b-6f48-64f0ae21244f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e24fc60-8815-1df4-77fc-a65578420091",
+    "website": "15-760a-operations-management-spring-2002"
+  },
+  "course_title": "Operations Management",
+  "course_description": "Our objective in this course is to introduce you to concepts and techniques related to the design, planning, control, and improvement of manufacturing and service operations. The course begins with a holistic view of operations, where we stress the coordination of product development, process management, and supply chain management. As the course progresses, we will investigate various aspects of each of these three tiers of operations in detail. We will cover topics in the areas of process analysis, materials management, production scheduling, quality improvement, and product design.\n\nTo pursue the course objective most effectively, you will have to:\n\n1.  Study the assigned reading materials.\n2.  Prepare and discuss cases, readings, and exercises in class.\n3.  Prepare written analyses of cases.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.760A",
+  "course_image_thumbnail": {
+    "content": "f54d16d1-1082-c02a-49a1-341cfca8cfc3",
+    "website": "15-760a-operations-management-spring-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "c0325101-9e2f-4c41-a139-5d83c84b4833",
+  "site_short_id": "15.760a-spring-2002",
+  "site_url_path": "courses/15-760a-operations-management-spring-2002",
+  "title": "Course Metadata"
+}
