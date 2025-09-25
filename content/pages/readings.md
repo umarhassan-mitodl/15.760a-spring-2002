@@ -234,7 +234,7 @@ Hammer, Michael. *Reengineering Work: Don't Automate, Obliterate*. \_Harvard Bus
 
 Cole. *Reengineering the Corporation: A Review Essay.*
 
-See also {{% resource_link "276eac2d-0eb2-427c-a4ff-85a4a96b8b7b" "http://userpages.umbc.edu/~khoo/re-engr.html" %}} for additional articles by Dr. Hammer.
+See also [http://userpages.umbc.edu/~khoo/re-engr.html](http://userpages.umbc.edu/~khoo/re-engr.html) for additional articles by Dr. Hammer.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
